@@ -1,6 +1,6 @@
 # Applying deep learning techniques to predict ENSO phases
 
-Adapting, improving, and updating coursework from Environmental ML with 2026 data, more sophisticated tuning, and running on better hardware. Is a super El Niño coming? Let's find out!
+Adapting and improving coursework from Environmental ML with 2026 data, more sophisticated tuning, and running on better hardware. Is a super El Niño coming? Let's find out!
 
 Pulling data from: https://psl.noaa.gov/data/gridded/data.noaa.ersst.v5.html 
 
